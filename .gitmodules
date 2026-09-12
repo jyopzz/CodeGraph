@@ -1,0 +1,6 @@
+[submodule "CodGraph-BE"]
+	path = CodGraph-BE
+	url = https://github.com/jyopzz/CodeGraph-BE.git
+[submodule "CodGraph-FE"]
+	path = CodGraph-FE
+	url = https://github.com/jyopzz/CodeGraph-FE.git
