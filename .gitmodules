@@ -4,3 +4,6 @@
 [submodule "CodGraph-FE"]
 	path = CodGraph-FE
 	url = https://github.com/jyopzz/CodeGraph-FE.git
+[submodule "CodeGraph-Agent"]
+	path = CodeGraph-Agent
+	url = https://github.com/jyopzz/CodeGraph-Agent.git
